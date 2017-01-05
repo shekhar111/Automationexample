@@ -1,0 +1,9 @@
+<suite name ="Test-Suite">
+<test name="ToolsQA">
+<parameter name="sUsername" value="shekhar.shashi111@gmail.com"/>
+<parameter name="sPassword" value="shekhar17090"/>
+<classes>
+<class name="automationFramework.TestNGParameters" /> 
+</classes>
+</test>
+</suite>

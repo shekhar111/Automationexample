@@ -1,0 +1,17 @@
+2016-11-08 16:55:30,639 INFO  [Log4j] New driver instantiated 
+2016-11-08 16:55:31,517 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2016-11-08 16:55:36,245 INFO  [Log4j] Web application launched 
+2016-11-08 16:55:36,999 INFO  [Log4j] Username entered in the Username text box 
+2016-11-08 16:55:37,271 INFO  [Log4j] Password entered in the Password text box 
+2016-11-08 16:55:47,247 INFO  [Log4j] Login button is clicked and used is logged to site 
+2016-11-08 16:55:49,153 INFO  [Log4j] Navigation button to display 'logout' link  
+2016-11-08 16:55:52,194 INFO  [Log4j] Logout link is clicked 
+2016-11-08 16:55:55,219 INFO  [Log4j] Browser closed 
+2016-11-10 17:29:23,899 INFO  [Log] New driver instantiated 
+2016-11-10 17:29:24,032 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-11-10 17:29:27,536 INFO  [Log] Web application launched 
+2016-11-10 17:29:27,966 INFO  [Log] Username entered in the Username text box 
+2016-11-10 17:29:28,826 INFO  [Log] Password entered in the Password text box 
+2016-11-10 17:29:38,195 INFO  [Log] Click action performed on Submit button 
+2016-11-10 17:29:42,634 INFO  [Log] Click action performed on Log out link 
+2016-11-10 17:29:44,303 INFO  [Log] Browser closed 

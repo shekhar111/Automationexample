@@ -1,0 +1,9 @@
+<suite name="Test-Suite">
+<test name="ToolsQA">
+<classes>
+<class name="automationFramework.Module_TC" />
+<class name="automationFramework.POM_TC" />
+<class name="automationFramework.TestNG" />
+</classes>
+</test>
+</suite>

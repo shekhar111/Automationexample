@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42379" started-at="2016-12-24T08:29:01Z" finished-at="2016-12-24T08:29:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42379" started-at="2016-12-24T08:29:01Z" finished-at="2016-12-24T08:29:43Z">
+      <class name="automationFramework.TestNG">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@6e06451e]" name="beforeMethod" is-config="true" duration-ms="25478" started-at="2016-12-24T13:59:01Z" finished-at="2016-12-24T13:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.TestNG@6e06451e]" name="main" duration-ms="14133" started-at="2016-12-24T13:59:26Z" finished-at="2016-12-24T13:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@6e06451e]" name="afterMethod" is-config="true" duration-ms="2731" started-at="2016-12-24T13:59:40Z" finished-at="2016-12-24T13:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<suite name="Test-Suite">
+<test name="ToolsQA">
+<groups>
+<define name="All">
+<include name="Car" />
+<include name="Scooter" />
+</define>
+<run>
+<include name="All" />
+</run>
+</groups>
+<classes>
+<class name="automationFramework.Grouping" />
+</classes>
+</test>
+</suite>
